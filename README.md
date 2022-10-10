@@ -1,17 +1,17 @@
-<h1 align="center">Hola 👋, yo soy Samir Yangua Ruiz</h1>
-<h3 align="center">Un Desarrollador Frontend de Perú apasionado por las tecnologías web.</h3>
+<h1 align="left">Hola 👋, yo soy Samir Yangua Ruiz</h1>
+<h3 align="left">Un Desarrollador Frontend de Perú apasionado por las tecnologías web.</h3>
 
-- 👨‍💻 Todas mis practicas y proyectos están disponibles en *[https://frontdevsamir.github.io/](https://frontdevsamir.github.io/)*
+✔ 👨‍💻 Todas mis practicas y ejercicios Frontend están disponibles en *[https://frontdevsamir.github.io/](https://frontdevsamir.github.io/)*
 
-- 💬 Pregúntame sobre *HTML, CSS , JAVASCRIPT Y PYTHON*
+✔ 💬 Pregúntame sobre ``HTML`` -  ``CSS`` - ``JAVASCRIPT`` - ``PYTHON``
 
-- 📫 Puedes contactarme a mi correo *yanguasamirfvr@gmail.com*
+✔ 📫 Puedes contactarme a mi correo *yanguasamirfvr@gmail.com*
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
-<a href="https://codepen.io/frontdevsamir" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="frontdevsamir" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/frontdevsamir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frondevsamir" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yanguaruizs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yanguaruizs" height="30" width="40" /></a>
+<a href="https://codepen.io/frontdevsamir" target="_blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="frontdevsamir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/frontdevsamir/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frondevsamir" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/yanguaruizs" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yanguaruizs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas y Herramientas:</h3>
