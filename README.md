@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, yo soy Samir Yangua Ruiz</h1>
 <h3 align="center">Un Desarrollador Frontend de Perú apasionado por las tecnologías web.</h3>
 
-- 👨‍💻 Todos mis los proyectos están disponibles en [www.linkedin.com/in/frontdevsamir](www.linkedin.com/in/frontdevsamir)
+- 👨‍💻 Todos mis los proyectos están disponibles en [https://frontdevsamir.github.io/](https://frontdevsamir.github.io/)
 
 - 💬 Pregúntame sobre **HTML, CSS , JAVASCRIPT Y PYTHON**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Conéctese conmigo:</h3>
 <p align="left">
-<a href="https://codepen.io/frontdevsamir" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="frontdevsamir" altura="30" anchura="40" /></a>
+<a href="https://codepen.io/frontdevsamir" target="blank "><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="frontdevsamir" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/frontdevsamir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="frondevsamir" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yanguaruizs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yanguaruizs" height="30" width="40" /></a>
 </p>
